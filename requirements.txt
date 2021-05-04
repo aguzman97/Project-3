@@ -1,12 +1,10 @@
 bokeh
 Jupyter
-openpyxl
 pandas
 pandas_bokeh
 panel
 hvplot
 plotly
 holoviews
-matplotlib
 numpy
 pycountry
