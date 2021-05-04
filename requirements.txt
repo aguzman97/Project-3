@@ -8,3 +8,5 @@ hvplot
 plotly
 holoviews
 matplotlib
+numpy
+pycountry
