@@ -1,4 +1,5 @@
 bokeh
+openpyxl
 Jupyter
 pandas
 pandas_bokeh
