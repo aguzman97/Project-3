@@ -9,3 +9,6 @@ plotly
 holoviews
 numpy
 pycountry
+geopandas
+json
+
