@@ -4,6 +4,6 @@ In the following project, we were evaluating data from netflix based on their di
 
 **![image1](https://github.com/aguzman97/Project-3/blob/main/assets/Bar%20chart.png)**
 
-![image2](assets/multiple charts.png)
+![image2](https://github.com/aguzman97/Project-3/blob/main/assets/heat%20chart.png)
 
 ![image2](assets/heat chart.png)
