@@ -6,4 +6,4 @@ In the following project, we were evaluating data from netflix based on their di
 
 ![image2](https://github.com/aguzman97/Project-3/blob/main/assets/heat%20chart.png)
 
-![image2](assets/heat chart.png)
+![image2](https://github.com/aguzman97/Project-3/blob/main/assets/multiple%20charts.png)
