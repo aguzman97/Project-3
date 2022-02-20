@@ -10,5 +10,5 @@ holoviews
 numpy
 pycountry
 geopandas
-json
+
 
